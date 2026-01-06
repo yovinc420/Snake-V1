@@ -7,7 +7,7 @@ A small tool for testing and messing around with different types of peripherals 
 **Main:**
 - Microcontroller: STMicroelectronics STM32WB35CEU6A
 - microSD Connector: Molex 47352-1001
-- USB-C Connector: Hirose Connector CX70M-24P1
+- USB-C Connector: GCT USB4135-GF-A
 
 **IR:**
 - Transmitter: Vishay Semiconductors TSAL6400

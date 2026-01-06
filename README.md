@@ -1,2 +1,18 @@
 # Snake V1
-A small tool for testing with different types of peripherals like IR, Sub-GHz, Bluetooth, Wi-Fi, NFC, and many more.
+A small tool for testing and messing around with different types of peripherals like IR, GPIO, Sub-GHz, BLE, Wi-Fi, NFC, and many more.
+
+
+### Parts used
+
+**Main:**
+Microcontroller: STMicroelectronics STM32WB35CEU6A
+microSD Connector: Molex 47352-1001
+USB-C Connector: JAE Electronics DX07B024JJ3R1600
+
+**IR:**
+Transmitter: Vishay Semiconductors TSAL6400
+Receiver: Vishay Semiconductors TSOP38238
+
+**Sub-GHz:**
+Transciever: Texas Instruments CC1101RGPR
+Antenna: Tapered Helical Antenna
